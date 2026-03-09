@@ -1,5 +1,5 @@
 {
-    "gui.alerts.lostPeripheralConnection": "OpenBlock потерял соединение с {extensionName}.",
+    "gui.alerts.lostPeripheralConnection": "Robolab потерял соединение с {extensionName}.",
     "gui.alerts.tryAgain": "Попробуй еще раз",
     "gui.alerts.download": "Скачать",
     "gui.connection.reconnect": "Переподключиться",
